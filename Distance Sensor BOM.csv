@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+DIST1,1, Ultrasonic Distance Sensor
+D1,1,Green LED
+D2,1,Yellow LED
+D3,1,Red LED
+PIEZO1,1, Active Buzzer
+"R1k, R1, R2",3,1 kΩ Resistor
+U1,1, Arduino Uno R3
